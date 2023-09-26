@@ -24,8 +24,7 @@ El Bootcamp de Henry me ha ayudado a adquirir diferentes tipos de tecnologías c
 - Sequelize
 - GIT
 - CSS
-- -TypeScript
-- 
+- TypeScript
 
 Además de las herramientas aprendidas en Henry, también desarrollé las habilidades blandas. Las adquirí desarrollándome como Teaching Assistant durante el curso.
 
