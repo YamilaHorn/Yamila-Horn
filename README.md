@@ -1,7 +1,7 @@
 ¡Hola! 👋 Mi nombre es Yamila Horn.
 
 Soy programadora FullStack orientada al diseño Front-end.
-Este último año me enfoqué en la programación, aprendí muchas habilidades y herramientas nuevas que me hicieron crecer como programadora. 
+Este último año me enfoqué en la programación, aprendí muchas habilidades y herramientas nuevas que me hicieron crecer como programadora.   
 
 ¿Qué hago? 💻💼
 
