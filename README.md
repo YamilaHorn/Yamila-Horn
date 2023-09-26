@@ -3,7 +3,7 @@
 Soy programadora FullStack orientada al diseño Front-end.
 Este último año me enfoqué en la programación, aprendí muchas habilidades y herramientas nuevas que me hicieron crecer como programadora. 
 
-¿Qué hago? 💻💼
+¿Qué hago? 💻💼 
 
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programadora. Me gusta poder encontrar la solución a diferentes conflictos a través del código, también me gusta aplicar estilos y diseños.
 
